@@ -1,0 +1,7 @@
+Flask
+requests
+fitbit
+flask_sqlalchemy
+psycopg2
+python-dotenv
+requests_oauthlib
